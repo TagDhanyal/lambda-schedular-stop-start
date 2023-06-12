@@ -1,6 +1,7 @@
 # EC2 Instance Scheduler
 
 The EC2 Instance Scheduler project allows you to automate the starting and stopping of EC2 instances on a predefined schedule. This helps you save costs by ensuring that your instances are only running when needed, such as during business hours or specific time periods.
+
 ![Architecture](./images/arch.png)
 
 ## Features
